@@ -25,6 +25,7 @@ body {
     justify-content: center;
     width: 100%;
     height: auto;
+    flex-wrap: wrap;
 }
 
 .card {
